@@ -1,0 +1,11 @@
+==== Concepts related to Spring-Data
+
+[[spring-data:Repository]]
+[source,cypher,role="concept",requiresConcepts="spring-data:ImplementedRepository"]
+.Returns all repositories.
+----
+MATCH
+  (repository:Spring:Repository)
+RETURN
+  repository as Repository
+----
