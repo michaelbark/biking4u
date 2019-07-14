@@ -12,5 +12,5 @@ You'll need [GPSBabel][5] to build this project without errors and to use the tr
 
     biking4u.gpsBabel = path/to/gpsbabel/binary
 
-GPSBabel is available for all major operating systems, including windows. So please check if it's available on your platform if biking2 doesn't compile for you.
+GPSBabel is available for all major operating systems, including windows. So please check if it's available on your platform if biking4u doesn't compile for you.
 
